@@ -1,0 +1,6 @@
+<resources>
+    <string name="firebase_api_key">AIzaSyA_55Dv8fu5H_HDIP700Tkr59SLs3obJmo</string>
+    <string name="firebase_app_id">1:48261208839:android:3bf41e22a64a4aa8c643a2</string>
+    <string name="firebase_project_id">mebook-28d37</string>
+    <string name="firebase_sender_id">48261208839</string>
+</resources>
