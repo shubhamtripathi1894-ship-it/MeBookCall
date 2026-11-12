@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:gravity="center" android:padding="28dp"
+    android:background="#0D0A04" android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView android:text="MeBook" android:textColor="#F5D76E" android:textSize="30sp"
+        android:textStyle="bold" android:layout_marginBottom="52dp"
+        android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    <TextView android:text="Incoming call" android:textColor="#FFFFFF" android:textSize="18sp"
+        android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    <TextView android:id="@+id/caller_name" android:text="Caller" android:textColor="#F5D76E"
+        android:textSize="26sp" android:textStyle="bold" android:layout_marginTop="14dp"
+        android:layout_marginBottom="64dp" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+    <Button android:id="@+id/accept_button" android:text="ACCEPT" android:textColor="#0D0A04"
+        android:backgroundTint="#F5D76E" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    <Button android:id="@+id/decline_button" android:text="DECLINE" android:textColor="#FFFFFF"
+        android:backgroundTint="#9D2929" android:layout_marginTop="18dp"
+        android:layout_width="match_parent" android:layout_height="wrap_content"/>
+</LinearLayout>
