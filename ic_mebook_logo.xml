@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#0D0A04"
+        android:pathData="M0,0h108v108h-108z"/>
+    <!-- Yellow Rounded Card -->
+    <path
+        android:fillColor="#F5D76E"
+        android:pathData="M16,28 C16,21.37 21.37,16 28,16 L80,16 C86.63,16 92,21.37 92,28 L92,80 C92,86.63 86.63,92 80,92 L28,92 C21.37,92 16,86.63 16,80 Z"/>
+    <!-- Letter M in Black -->
+    <path
+        android:fillColor="#1A1200"
+        android:pathData="M34,76 L34,32 L46.5,32 L54,54.5 L61.5,32 L74,32 L74,76 L63,76 L63,49.5 L56.8,67.5 L51.2,67.5 L45,49.5 L45,76 Z"/>
+</vector>
